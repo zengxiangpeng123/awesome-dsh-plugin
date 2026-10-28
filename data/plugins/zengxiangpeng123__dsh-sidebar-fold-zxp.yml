@@ -2,5 +2,5 @@ url: https://github.com/zengxiangpeng123/dsh-sidebar-fold-zxp
 name: zengxiangpeng123/dsh-sidebar-fold-zxp
 category: ui
 description:
-  en: "Folds the sidebar's plugin entries into one row so workspaces and sessions get the height back. One click to unfold, and the choice is remembered."
-  zh: "把左侧那排插件入口折成一行「插件列表」，把高度还给工作区与会话列表。点一下展开、再点一下收起，状态会记住。"
+  en: "Folds the sidebar's plugin entries into collapsible groups you order yourself, so workspaces and sessions get the height back. Groups and order are managed from a settings page, and the shell's own overflow row is hidden."
+  zh: "把左侧那排插件入口折起来、按组归类、按你定的顺序排，把高度还给工作区与会话列表。分组与顺序在设置页里管理，外壳自带的「更多」入口一并隐藏。"
