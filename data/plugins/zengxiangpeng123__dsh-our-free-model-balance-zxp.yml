@@ -1,0 +1,6 @@
+url: https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp
+name: zengxiangpeng123/dsh-our-free-model-balance-zxp
+category: usage
+description:
+  en: "Requires the Our Free Model plugin, with at least one channel signed in there. Shows the remaining credit of the current channel beside the composer, and every channel one click away."
+  zh: "需先安装 Our Free Model 插件并在其中登录至少一个渠道。在输入框旁显示当前渠道的剩余额度，点开可看全部渠道。"
